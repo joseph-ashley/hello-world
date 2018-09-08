@@ -8,3 +8,8 @@ About me:
   - Interned at WVU and searched for new exciton energy states in thin-film semiconductors (with a really big laser)
   - Captivated by Riemann's hypothesis and other unsolved math problems
   - Here to learn and share with the community
+  
+Projects:
+  - Write a project management app (meta right?)
+  - Create a package of matlab functions useful in pursuit of Riemann's hypothesis
+  - ...
